@@ -2,6 +2,7 @@
 This project consists of Analyzing UNVR stok market and creating stock movemont vizualisations to monitor stock performance in order to find insights for investors.
 
 ## Tools
+* **Platform:** Jupyter Notebook.
 * **Data Manipulation:** Python (Pandas & Datetime).
 * **Data Source:** <a href=https://finance.yahoo.com/>yfinance API</a>.
 * **Data Visualization:** Matplotlib (Static plots) & Plotly (Interactive dashboards).
