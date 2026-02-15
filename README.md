@@ -2,9 +2,9 @@
 This project consists of Analyzing UNVR stok market and creating stock movemont vizualisations to monitor stock performance in order to find insights for investors.
 
 ## Tools
-* **Python Library:** Datetime, Pandas.
-* **Data Stock:** - <a href=https://finance.yahoo.com/>yfinance</a>
-* **Visualization:** Matplotlib, Plotly
+* **Data Manipulation:** Python (Pandas & Datetime).
+* **Data Source:** <a href=https://finance.yahoo.com/>yfinance API</a>.
+* **Data Visualization:** Matplotlib (Static plots) & Plotly (Interactive dashboards).
 
 ## KPIs / Business Questions
 1. Which stock delivered the best return for long-term investors (2017–2026) among UNVR, ICBP, and MYOR?
