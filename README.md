@@ -1,5 +1,5 @@
 # Financial Analysis Data Stock UNVR
-This project consists of Analyzing UNVR stok market and creating stock movemont vizualisations to monitor stock performance in order to find insights for investors.
+This project consists of analyzing the current condition of UNVR stock data and comparing it with the prices and growth of competitor stocks using python. The main objective of this project is to provide investors with insights into UNVR stocks.
 
 ## Tools
 * **Platform:** Jupyter Notebook.
