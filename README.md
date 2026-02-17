@@ -26,8 +26,7 @@ This project consists of analyzing the current condition of UNVR stock data and 
 
 3. Stock Characteristics from the Histogram
    - UNVR histogram: The bars are mostly concentrated in the middle-left area. This visually shows that the stock more often stagnates or declines rather than generates profit.
-   - Distribution:
-Unlike its competitors, UNVR’s histogram indicates that downward pressure is stronger than its attempts to recover upward.
+   - Distribution: Unlike its competitors, UNVR’s histogram indicates that downward pressure is stronger than its attempts to recover upward.
 
 4. Stock Movement Details (Candlestick)
    - Downtrend: Since reaching its peak in 2018 (around Rp7,500), UNVR’s price has continued to form a descending pattern.
