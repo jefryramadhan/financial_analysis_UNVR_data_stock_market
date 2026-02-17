@@ -1,4 +1,4 @@
-# Financial Analysis Data Stock UNVR
+# Financial Analysis : UNVR Stock Performance
 This project consists of analyzing the current condition of UNVR stock data and comparing it with the prices and growth of competitor stocks using python. The main objective of this project is to provide investors with insights into UNVR stocks.
 
 ## Tools
